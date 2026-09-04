@@ -1,0 +1,14 @@
+numSlots = 10
+items = Item[espada, escudo, pocao]
+
+AddItem(Item novoItem)
+{
+}
+
+RemoverItem(Item removItem)
+{
+}
+
+AplicarEfeito()
+{
+}

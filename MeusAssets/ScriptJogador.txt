@@ -1,0 +1,4 @@
+string name = "Jogador Massa";
+int vida = 3;
+float vel = 5.5f
+slotsInvent = 50
